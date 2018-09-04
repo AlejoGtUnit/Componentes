@@ -1,0 +1,66 @@
+Miercoles 29/Agosto/2018 4:00pm -> Asignacion inicial de proyecto
+Jueves 30/Agosto/2018 11:15 -> Primer acercamiento y solicitud de informacion con Javier Rodriguez
+Viernes -> Segundo acercamiento con Javier, me mando copia de otros correos
+Lunes 03/09 -> Tercer acercamiento con Javier y Edwin, Instalo Bootstrap Studio
+
+http://clasificadospl.bss.design/
+
+http://streakcatcher.com/
+http://hockeypicks.com/
+http://phoenixsports.com/
+
+https://adelwis.pixieset.com/cristian/ <- Handicapper principal
+https://www.sportsaction365.com/ <- Compra de paquetes de picks
+
+Picks gratis de los handicappers
+https://www.sportscapping.com/free-baseball-picks.html
+https://www.picksandparlays.net/
+
+https://www.capperspicks.com/handicappers/free-sports-picks/ <- "Rompepantalla", vende promociones de las casas de apuestas y "solicitamos correo"
+
+"Estructura de picks"
+https://www.capperspicks.com/handicappers/free-sports-picks/
+https://www.sportscapping.com/free-baseball-picks.html    
+
+"Sitio ideal para atraer jugadores"
+https://www.capperspicks.com/handicappers/free-sports-picks/
+
+"Como presentar a los handicappers"
+http://www.freeplays.com/
+http://www.handicapperspicks.com/
+https://www.boydsbets.com/sportsbook-reviews/
+
+Banners de casa de apuesta
+http://www.bestfreepicks.com/
+https://www.oskeimsportspicks.com/
+https://www.procappers.com/   
+http://www.aasiwins.com/  
+https://www.kelsosportshandicapping.com/
+http://www.playbook.com/
+
+Componentes necesarios
+	Background
+	Notas (texto e imagenes)
+	Imagenes
+	Sliders (imagenes, imagenes con texto)
+	Links de ClickBanks (producto)
+	Multimedia fija
+	Galeria de fotos
+	Embeds (Videos, Playlist videos, Encuestas, Etc)
+	Tablas estaticas
+	Boton a pasarela de clickbank
+	Links a casas de apuestas, handicappers o sitios de picks
+	Formulario de contacto
+	Testimoniales
+	Handicappers
+	Foto galerias
+Paginas
+	Home
+	Detalle (Ver .doc y algunos ejemplos)
+	Terminos y condiciones
+	Politicas de privacidad
+	Disclaimer y politicas de retorno
+	
+https://picsum.photos/
+https://www.creative-tim.com
+	
