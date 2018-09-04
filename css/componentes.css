@@ -1,1 +1,6 @@
-.navbar img { max-width:200px; max-height:50px; }
+.navbar-brand img { max-width:200px; max-height:50px; }
+main { background-color:#f8f9fa; }
+main .container { background-color:#FFF; }
+
+.card-pick-gratis { background-color:#efefef; margin-bottom:25px; }
+.btn-pick-gratis { width:100%; margin-top:10px; }
