@@ -10,7 +10,7 @@
         <title>Componentes</title>
     </head>
     <body ng-app="componentesApp">
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark text-light">
             <div class="container">
                 <a class="navbar-brand" href="#/!">
                     <img src="media/loremipsum-logo.png">
@@ -30,6 +30,9 @@
                             <a class="nav-link" href="#!noticias">Noticias</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="#!genericos">Genericos</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="#!contacto">Contacto</a>
                         </li>
                     </ul>
@@ -37,15 +40,11 @@
             </div>
         </nav>
         <main>
-            <div ng-view class="container px-4 py-4"></div>
+            <div ng-view class="container px-sm-3 py-sm-3 px-md-4 py-md-4 px-lg-5 py-lg-5"></div>
         </main>
         <footer>
-            Footer
         </footer>
         <!--Inicio Javascript-->
-        
-        <!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>-->
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular-route.js"></script>
         <script type="text/javascript" src="js/app.js"></script>

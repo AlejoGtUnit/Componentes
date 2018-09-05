@@ -64,4 +64,10 @@ Paginas
 	
 https://picsum.photos/
 https://www.creative-tim.com
+
+
+Componentes Basicos
+	Suscripcion a newsletter
+	Tablas
+	Cards
 	
