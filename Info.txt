@@ -2,6 +2,7 @@ Miercoles 29/Agosto/2018 4:00pm -> Asignacion inicial de proyecto
 Jueves 30/Agosto/2018 11:15 -> Primer acercamiento y solicitud de informacion con Javier Rodriguez
 Viernes -> Segundo acercamiento con Javier, me mando copia de otros correos
 Lunes 03/09 -> Tercer acercamiento con Javier y Edwin, Instalo Bootstrap Studio
+Martes 04/09 -> Muestra de mi sitio a Edwin con "Picks Gratis"
 
 http://clasificadospl.bss.design/
 
