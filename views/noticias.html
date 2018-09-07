@@ -1,4 +1,11 @@
-<h3 class="text-center">Ultimas noticias</h3>
-<div class="row">
-    <div class="col-md-3" ng-repeat="x in [1,2,3,4]" ng-include="'views/card-noticia-solo-imagen-titulo.html'"></div>
+<div class="container px-sm-3 py-sm-3 px-md-4 py-md-4 px-lg-5 py-lg-5">
+    <h3>Ultimas noticias</h3>
+    <div class="row">
+        <div class="col-md-3" ng-repeat="x in [1,2,3,4]" ng-include="'views/card-noticia-solo-imagen-titulo.html'"></div>
+    </div>
+    <br />
+    <h3>Listado de noticias</h3>
+    <div class="row">
+        <div class="col-12" ng-repeat="x in [1,2,3,4,5]" ng-include="'views/noticias-simple-list-item.html'"></div>
+    </div>
 </div>

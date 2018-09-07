@@ -1,10 +1,14 @@
-<h2 class="">Productos, servicios, paquetes, suscripciones</h2>
-<div ng-include="'views/tabla-nombre-resumen-precio-comprar.html'"></div>
+<div class="container px-sm-3 py-sm-3 px-md-4 py-md-4 px-lg-5 py-lg-5">
+    <h2 class="">Productos, servicios, paquetes, suscripciones</h2>
+    <div ng-include="'views/tabla-nombre-resumen-precio-comprar.html'"></div>
 
-<div class="row mb-5 text-center">
-    <div class="col-md-4" ng-repeat="x in [1,2,3]" ng-include="'views/card-nombre-precio-caracteristicas-comprar.html'"></div>
-</div>
+    <div ng-include="'views/tabla-imagen-nombre-resumen-precio-comprar.html'"></div>
 
-<div class="row mb-5 text-center">
-    <div class="col-md-3" ng-repeat="x in [1,2,3,4]" ng-include="'views/card-nombre-precio-caracteristicas-comprar.html'"></div>
+    <div class="row mb-5 text-center">
+        <div class="col-md-4" ng-repeat="x in [1,2,3]" ng-include="'views/card-nombre-precio-caracteristicas-comprar.html'"></div>
+    </div>
+
+    <div class="row mb-5 text-center">
+        <div class="col-md-3" ng-repeat="x in [1,2,3,4]" ng-include="'views/card-nombre-precio-caracteristicas-comprar.html'"></div>
+    </div>
 </div>

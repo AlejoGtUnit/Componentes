@@ -8,3 +8,11 @@ app.config(function($routeProvider){
     .when("/noticias", { templateUrl: "views/noticias.html" })
     .when("/contacto", { templateUrl: "views/contacto.html" });
 });
+
+$(".tema").on('click', function(){
+    var tema = $(this).data("tema"); 
+    if (tema != undefined && tema)
+    {
+        $("#tema").attr("href", "css/bootswatch/bootstrap." + tema + ".min.css");
+    }
+});

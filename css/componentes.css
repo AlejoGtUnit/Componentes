@@ -3,7 +3,6 @@ html, body { height:100%; }
 .navbar a { color:#FFF !important; }
 main { background-color:#f8f9fa; }
 main .container { background-color:#FFF; }
-.card-pick-gratis { background-color:#efefef; margin-bottom:25px; }
-.btn-pick-gratis { width:100%; margin-top:10px; }
+.card-pick-gratis { background-color:#efefef; }
 .footer { width:100%; }
 .footer a { color:#FFF; }
